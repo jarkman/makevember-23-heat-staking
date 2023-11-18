@@ -145,7 +145,7 @@ Magnetic flip-top bag
 
 Pencil case
 
-Fabric sheet with hard nubbins
+Pyramid grid
 
 ### Not yet posted
 
