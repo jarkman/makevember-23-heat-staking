@@ -3,7 +3,7 @@
 # Heat-staked joints for assembling 3D prints
 
 Jarkman Industries, 11/23
-
+richard@jarkman.co.uk
 
 # Introduction
 
@@ -48,6 +48,7 @@ Unexplored territory:
 
 Most of my experiments have been with 3mm thick plates. It was very easy to do 5mm pegs in 5mm plates. 2mm pins really didn’t work at all, because the printing inaccuracies made everything fit too badly.
 
+I think there is a lot of new space to explore with these techniques. If you do any experiments of your own, please let me know, I'm eager to see what is possible.
 
 # Design rules
 
