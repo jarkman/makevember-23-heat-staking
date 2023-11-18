@@ -26,6 +26,7 @@ Good:
 * Often possible to eliminate the need for support material
 * Probably prints quicker
 * Different components can be in different materials
+* Can also be used to join printed parts to other materials, eg fabrics
 
 Bad:
 
@@ -107,6 +108,8 @@ Fat edges slides into slots
 
 # Makevember list
 
+stl files (and some 3mf files to clarifly printing layout) are in this repository. 
+Images and videos are here: https://photos.app.goo.gl/8kNiENX5PBy6sVhRA
 
 ### Posted
 
@@ -142,6 +145,7 @@ Magnetic flip-top bag
 
 Pencil case
 
+Fabric sheet with hard nubbins
 
 ### Not yet posted
 
