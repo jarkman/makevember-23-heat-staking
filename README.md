@@ -154,10 +154,16 @@ Pretensioned tile strip
 
 Mobius Strip
 
+Tentacle 1 - failed because of weak cross-grain pins
+
 ### Not yet posted
 
 
 ### Not yet made
+
+Tentacle with tapered middle
+
+Curved tentacle
 
 Soft sheet with hard scales
 
