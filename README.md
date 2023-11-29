@@ -58,7 +58,9 @@ These are the rules I’ve converged on over these experiments. I’m sure there are
 
 I used these shapes:
 
-Pegs, either round or square, 3 or 4mm
+Pegs, either round or square, 3 or 4mm. Square is easiest to print horizontally, with no support if the design allows or with easier cleanuip if you do use support.
+
+Vertical 3mm pins are ridiculously weak. If the rest of design means the pin has to be vertical, it may be worth using a separate pin piece that is printed horizontally. See Tentacle 2 for an example.
 
 Fins, 2mm wide, 10mm long and up.
 
@@ -155,6 +157,8 @@ Pretensioned tile strip
 Mobius Strip
 
 Tentacle 1 - failed because of weak cross-grain pins
+
+Tentacle 2 - with separate pins
 
 ### Not yet posted
 
