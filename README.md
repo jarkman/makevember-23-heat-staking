@@ -60,7 +60,7 @@ I used these shapes:
 
 Pegs, either round or square, 3 or 4mm. Square is easiest to print horizontally, with no support if the design allows or with easier cleanuip if you do use support.
 
-Vertical 3mm pins are ridiculously weak. If the rest of design means the pin has to be vertical, it may be worth using a separate pin piece that is printed horizontally. See Tentacle 2 for an example.
+Vertical 3mm pins are ridiculously weak. If the rest of design means the pin has to be vertical, it may be worth using a separate pin piece that is printed horizontally. See Tentacle 2 and 3 for examples. You can snip overlong pins to length with side cutters.
 
 Fins, 2mm wide, 10mm long and up.
 
