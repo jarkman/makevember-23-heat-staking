@@ -160,18 +160,18 @@ Tentacle 1 - failed because of weak cross-grain pins
 
 Tentacle 2 - with separate pins
 
-### Not yet posted
+Tentacle 3 - as Tentacle 2 but with a tapered spine to give a different flex shape
 
 
 ### Not yet made
 
-Tentacle with tapered middle
-
 Curved tentacle
+
+Tentacle which curves as it deflects
 
 Soft sheet with hard scales
 
-Pencil roll with TPU nubbins
+Pencil roll with TPU nubbins for closure
 
 comb joints
 
