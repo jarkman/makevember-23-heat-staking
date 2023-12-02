@@ -47,9 +47,11 @@ Most of my experiments have been with 3mm thick plates. It was very easy to do 5
 I think there is a lot of new space to explore with these techniques. If you do any experiments of your own, please let me know, I'm eager to see what is possible.
 
 
-![5mm pins after staking](img/bearing1.jpg "5mm pins after staking").
-![5mm pins after staking](img/bearing2.jpg "5mm pins after staking").
-![5mm pins after staking](img/bearing3.jpg "5mm pins after staking").
+![3mm bearing carrier on print bed](img/bearing1.jpg "3mm bearing carrier on print bed").
+![3mm bearing carrier assembled](img/bearing2.jpg "3mm bearing carrier assembled").
+![3mm bearing carrier with kapton tape and soldering iron](img/bearing3.jpg "3mm bearing carrier with kapton tape and soldering iron").
+![3mm bearing carrier completed joints](img/bearing4.jpg "3mm bearing carrier completed joints").
+![3mm bearing carrier finished assembly](img/bearing5.jpg "3mm bearing carrier finished assembly").
 
 
 # Design rules
