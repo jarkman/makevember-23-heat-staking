@@ -46,6 +46,12 @@ Most of my experiments have been with 3mm thick plates. It was very easy to do 5
 
 I think there is a lot of new space to explore with these techniques. If you do any experiments of your own, please let me know, I'm eager to see what is possible.
 
+
+![5mm pins after staking](img/bearing1.jpg "5mm pins after staking").
+![5mm pins after staking](img/bearing2.jpg "5mm pins after staking").
+![5mm pins after staking](img/bearing3.jpg "5mm pins after staking").
+
+
 # Design rules
 
 [TODO - needs many images]
