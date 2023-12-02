@@ -9,35 +9,31 @@ richard@jarkman.co.uk
 
 This is a method of joining 3D printed parts by melting over (‘heat staking’) printed pins or fins on one part that pass through holes in another part. The melted-over material makes the pin fat so it can’t pull back through the hole. A countersink around the hole lets the melted material go flush with the surface.
 
-I started it as a process exploration series for #makevember 2023, in a series on Mastodon (@jarkman@chaos.social if you want to look at it)
+I started it as a process exploration series for #makevember 2023 (https://chickengrylls.wordpress.com/2017/10/31/the-makevember-manifesto/), in a series on Mastodon (@jarkman@chaos.social if you want to look at it)
 
 The melting is done with the side of a soldering iron, with a bit of Kapton tape to stop the melted material sticking to the iron. Many thanks to Jeff Epler for this trick:
 
 https://emergent.unpythonic.net/01612362040
 
-Good:
-
-
+As an assembly technique for 3D printa, it has a lot to recommend it:
 
 * Quick
 * Cheap
 * Very compact (much smaller than nuts and bolts, self-tappers, heat-set inserts)
 * Different components of the assembly can be printed in different orientations so the layer lines are best oriented for strength
 * Often possible to eliminate the need for support material
-* Probably prints quicker
+* Probably prints quicker than a complex single part with support
 * Different components can be in different materials
 * Can also be used to join printed parts to other materials, eg fabrics
 
-Bad:
-
-
+And it has some disadvantages:
 
 * More CAD to do, compared to an all-in-one part
 * Can look a bit messy
 * Not dismantlable
-    * Actually, I have not tried, it might be possible to cut the stake out with a Dremel to remove the inserted part and re-use the part with the hole
+    * Actually, I have not tried, it might be possible to cut the stake out with a Dremel to remove the inserted part and re-use the part with the hole. But you wouldn't want to.
 
-Unexplored territory:
+There's a lot of unexplored territory:
 
 
 
@@ -168,6 +164,8 @@ Tentacle 3 - as Tentacle 2 but with a tapered spine to give a different flex sha
 Curved tentacle
 
 Tentacle which curves as it deflects
+
+Circular spring to close a tube/bag
 
 Soft sheet with hard scales
 
