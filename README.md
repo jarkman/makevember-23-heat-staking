@@ -70,6 +70,8 @@ The pin/fin had a 1 or 1.5mm stickout through the hole, so as to have enough mat
 
 On the 5mm pin, I used a counterbore in the end of the pin so you are just melting a 1mm high, 1mm wide annular ridge rather than the whole end of the pin.
 
+![5mm pins after staking](https://photos.app.goo.gl/6QzttS9c2BcxDdFc9 "5mm pins after staking").
+
 I typically enlarge holes by 0.1mm all round (0.2mm in width) over the size of the pin to make assembly easy. This clearance probably depends on how accurate your printer is.
 
 Sometimes I have to use a needle file to clean up printer nubbins inside slots.
