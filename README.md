@@ -15,7 +15,7 @@ The melting is done with the side of a soldering iron, with a bit of Kapton tape
 
 https://emergent.unpythonic.net/01612362040
 
-As an assembly technique for 3D printa, it has a lot to recommend it:
+As an assembly technique for 3D prints, it has a lot to recommend it:
 
 * Quick
 * Cheap
