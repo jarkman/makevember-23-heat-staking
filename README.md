@@ -50,8 +50,10 @@ I think there is a lot of new space to explore with these techniques. If you do 
 ![3mm bearing carrier on print bed](img/bearing1.jpg "3mm bearing carrier on print bed").
 ![3mm bearing carrier assembled](img/bearing2.jpg "3mm bearing carrier assembled").
 ![3mm bearing carrier with kapton tape and soldering iron](img/bearing3.jpg "3mm bearing carrier with kapton tape and soldering iron").
-![3mm bearing carrier completed joints](img/bearing4.jpg "3mm bearing carrier completed joints").
-![3mm bearing carrier finished assembly](img/bearing5.jpg "3mm bearing carrier finished assembly").
+![3mm bearing carrier after staking](img/bearing4.jpg "3mm bearing carrier after staking").
+![3mm bearing carrier completed joints](img/bearing5.jpg "3mm bearing carrier completed joints").
+![3mm bearing carrier finished assembly](img/bearing6.jpg "3mm bearing carrier finished assembly").
+
 
 
 # Design rules
@@ -62,7 +64,7 @@ These are the rules I’ve converged on over these experiments. I’m sure there are
 
 I used these shapes:
 
-Pegs, either round or square, 3 or 4mm. Square is easiest to print horizontally, with no support if the design allows or with easier cleanuip if you do use support.
+Pegs, either round or square, 3 or 4mm. Square is easiest to print horizontally, with no support if the design allows or with easier cleanup if you do use support.
 
 Vertical 3mm pins are ridiculously weak. If the rest of design means the pin has to be vertical, it may be worth using a separate pin piece that is printed horizontally. See Tentacle 2 and 3 for examples. You can snip overlong pins to length with side cutters.
 
@@ -77,8 +79,6 @@ I generally had a 1mm chamfer or countersink round the edge of the hole to recei
 The pin/fin had a 1 or 1.5mm stickout through the hole, so as to have enough material to melt and fill the countersink.
 
 On the 5mm pin, I used a counterbore in the end of the pin so you are just melting a 1mm high, 1mm wide annular ridge rather than the whole end of the pin.
-
-![5mm pins after staking](https://photos.app.goo.gl/6QzttS9c2BcxDdFc9 "5mm pins after staking").
 
 I typically enlarge holes by 0.1mm all round (0.2mm in width) over the size of the pin to make assembly easy. This clearance probably depends on how accurate your printer is.
 
@@ -112,68 +112,70 @@ Plates joined flat
 
 Small parts joined to plates with pegs
 
-Fat edges slides into slots
+Fat edges slid into slots
 
 
 # Makevember list
 
-stl files (and some 3mf files to clarifly printing layout) are in this repository. 
+stl files (and some 3mf files to clarifly printing layout) for all the Makevember tests are in this repository. 
+
+
 Images and videos are here: https://photos.app.goo.gl/8kNiENX5PBy6sVhRA
 
-### Posted
+### Tests
 
-5mm round tenons
+5mm round tenons, for a 90 degree joint between parts
 
-2mm round tenons
+2mm round tenons, for a 90 degree joint between parts. Not very successful, hard to get a good fit and not very strong.
 
-3mm triangle tenons
+3mm triangle tenons for a 90 degree joint. Worked OK, needed a lot of hand cleanup to get the parts to fit.
 
 3mm butt join with end Vs - failed
 
-3mm butt join with side Vs - worked
+3mm butt join with side Vs - worked! But the pes tended to warp upwards in printing so the joitn was not flat overall.
 
-3mm dovetail tenons
+3mm dovetail tenons for a 90 degree joint - worked, probably my favourite for (eg) a box edge.
 
-3mm square tenons for bearing mount
+3mm square tenons for bearing mount - worked great.
 
-ASA flexure
+ASA flexure - Not flexible.
 
-ASA thin failed flexure
+ASA thin failed flexure - just broke
 
-flexure with flex
+Flexure with ASA plates and TPU flexibles - worked well
 
-Chained hard-soft-hard
+Chained hard-soft-hard - worked well. No idea what it is for. 
 
-Track with hard feet
+TPU belt with hard feet - worked well.
 
-wheel with soft nubbins
+Wheel with soft nubbins - worked well
 
-door with soft hinge and latch
+Door with soft hinge and latch - good hinges, bad latch.
 
-Magnetic flip-top bag
+Magnetic flip-top bag - worked well
 
-Pencil case
+Pencil case - worked OK
 
-Pyramid grid
+Pyramid grid - worked well, feels like there are many interesting possibilities here, reminds me of the 3d-printing-onto-mesh techniques
 
-Pencil case 2
+Pencil case 2 - better than pencil case 1.
 
-Pretensioned tile strip
+Pretensioned tile strip - worked
 
-Mobius Strip
+Mobius Strip in TPU - really good join
 
 Tentacle 1 - failed because of weak cross-grain pins
 
-Tentacle 2 - with separate pins
+Tentacle 2 - with separate pins - good
 
-Tentacle 3 - as Tentacle 2 but with a tapered spine to give a different flex shape
+Tentacle 3 - as Tentacle 2 but with a tapered spine to give a different flex shape - also good
 
 
-### Not yet made
+### Ideas not yet made
 
-Curved tentacle
+Side-curved tentacle
 
-Tentacle which curves as it deflects
+Tentacle which curves sideways as it deflects
 
 Circular spring to close a tube/bag
 
@@ -193,8 +195,6 @@ Fabric
 
 	Card
 
-Correx
-
-Both with a backer and without a backer    
+Adding printed parts to Correx sheet
 
 Hinged track with soft feet
