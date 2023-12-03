@@ -75,7 +75,7 @@ Vertical 3mm pins are ridiculously weak. If the rest of design means the pin has
 ![flat pin](img/flat-pin.jpg "flat pin").
 
 
-Fins, 2mm wide, 10mm long and up.
+Fins, 2mm wide, 10mm long and longer
 
 Triangles, with one horizontal face and two 45 degree faces, 3mm high and up
 
@@ -192,13 +192,9 @@ comb joints
 
 Ben's sloped-base tenons   
 
-Fabric
+Fabric with hooks
 
-	Hooks
-
-	Some kind of closure
-
-	Card
+TPU and card
 
 Adding printed parts to Correx sheet
 
