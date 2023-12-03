@@ -64,9 +64,7 @@ All the images and videos for the series are here: https://photos.app.goo.gl/8kN
 
 # Design rules
 
-[TODO - needs many images]
-
-These are the rules I’ve converged on over these experiments. I’m sure there are many other ways to do this but this worked for me and is probably a sensible place to start.
+These are the rules I’ve converged on over these experiments. I’m sure there are many other ways to do this but this worked for me and is probably a sensible place to start. All my tests were in ASA and TPU, but I expect the techniques will work identically in other materials.
 
 I used these shapes:
 
@@ -100,8 +98,6 @@ For most shapes, you need a shoulder on the part side to stop the part falling t
 
 # Process
 
-[TODO - needs video]
-
 Assemble the parts tightly (nice to hold the part in a vice but whatever works)
 
 Put a bit of Kapton tape over the end of the pin
@@ -110,7 +106,7 @@ Use the side of a soldering iron (I set mine to 300C) to press on the end of the
 
 As it melts, roll the soldering iron a bit to squish it down nicely into the countersink, should not need much force.
 
-Once it is set, peel of the Kapton, which can be reused.
+Once it is set, peel off the Kapton, which can be reused.
 
 
 # Geometries I’ve tried
