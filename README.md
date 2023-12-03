@@ -6,6 +6,9 @@ Jarkman Industries, 11/23
 
 richard@jarkman.co.uk
 
+![collected makevember](img/makevember-23.jpg "collected makevember").
+
+
 # Introduction
 
 This is a method of joining 3D printed parts by melting over (‘heat staking’) printed pins or fins on one part that pass through holes in another part. The melted-over material makes the pin fat so it can’t pull back through the hole. A countersink around the hole lets the melted material go flush with the surface.
