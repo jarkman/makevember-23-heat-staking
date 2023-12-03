@@ -3,6 +3,7 @@
 # Heat-staked joints for assembling 3D prints
 
 Jarkman Industries, 11/23
+
 richard@jarkman.co.uk
 
 # Introduction
@@ -55,6 +56,8 @@ I think there is a lot of new space to explore with these techniques. If you do 
 ![3mm bearing carrier finished assembly](img/bearing6.jpg "3mm bearing carrier finished assembly").
 
 
+All the images and videos for the series are here: https://photos.app.goo.gl/8kNiENX5PBy6sVhRA
+
 
 # Design rules
 
@@ -67,6 +70,9 @@ I used these shapes:
 Pegs, either round or square, 3 or 4mm. Square is easiest to print horizontally, with no support if the design allows or with easier cleanup if you do use support.
 
 Vertical 3mm pins are ridiculously weak. If the rest of design means the pin has to be vertical, it may be worth using a separate pin piece that is printed horizontally. See Tentacle 2 and 3 for examples. You can snip overlong pins to length with side cutters.
+
+![flat pin](img/flat-pin.jpg "flat pin").
+
 
 Fins, 2mm wide, 10mm long and up.
 
